@@ -1,0 +1,45 @@
+.contact {
+  background-color: #002966;
+  color: #fff;
+}
+
+.contact .font-outfit {
+  font-weight: bold;
+}
+
+.contact a.nav-link {
+  color: #cca600;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact a.nav-link:hover {
+  color: #ccc;
+  text-decoration: underline;
+}
+
+.contact hr {
+  border-top: 1px solid #cca600;
+}
+
+.contact span {
+  font-size: 16px;
+  font-family: "Outfit", sans-serif;
+}
+
+.ft-img {
+  width: 250px;
+}
+
+/* .alamat {
+  font-size: 14px;
+}
+*/
+.alamat h2 {
+  font-size: 20px;
+}
+
+.alamat a:hover {
+  text-decoration: underline;
+  color: #ccc;
+} 
